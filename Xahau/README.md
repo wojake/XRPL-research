@@ -6,4 +6,4 @@
 
 ### Security Audit
 
-1. [`Security Assessment of XRPL Labs' Hooks Amendment v1.0`](Security-Assessment-of-the-XRP-Labs-Hooks-Amendment-v1.0.pdf) by [goFYEO](https://www.fyeo.io/)
+1. [`Security Assessment of XRPL Labs' Hooks Amendment v1.0`](Security-Assessment-of-XRP-Labs'-Hooks-Amendment-v1.0.pdf) by [goFYEO](https://www.fyeo.io/)
